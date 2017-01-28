@@ -1,0 +1,4 @@
+-Trzeba miec tego jar w folderze
+-Na serwerze musi byc sqllite (czyli sigma np)
+-Trzeba pierw cos wpisac do tego sql, czyli np ten plik "sql polecnia.txt"
+-Komenda do odpalenia: java -cp .:sqlite-jdbc-3.8.7.jar TwojProgram
